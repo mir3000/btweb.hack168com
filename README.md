@@ -23,5 +23,5 @@ wget -O optimize7.7.sh https://raw.githubusercontent.com/mir3000/btweb.hack168co
 
 适用宝塔面板7.8版本的命令（7.8版本不支持去除强制绑定账号）：
 
-wget -O optimize7.8.sh https://raw.githubusercontent.com/mir3000/btweb.hack168com/master/optimize7.7.sh && bash optimize7.8.sh
+wget -O optimize7.8.sh https://raw.githubusercontent.com/mir3000/btweb.hack168com/master/optimize7.8.sh && bash optimize7.8.sh
 
