@@ -1,7 +1,7 @@
 /*
  *宝塔面板去除各种计算题与延时等待
  *适用宝塔面板版本：7.8
- *消失的彩虹海
+ *源码来自：hack168.com
 */
 if("undefined" != typeof bt && bt.hasOwnProperty("show_confirm")){
     bt.show_confirm = function(title, msg, callback, error) {
